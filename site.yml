@@ -12,7 +12,7 @@
 
 
 #- hosts: windows
-#  remote_user: clacko
+#  remote_user: davemus
 #  tasks:
 #    - name: test connection
 #      win_ping:
